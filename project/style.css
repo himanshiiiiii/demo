@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    background-image:url(him.jpeg.jpeg);
+    height: 75vh;
+    background-position:center;
+    background-size: cover;
+    opacity:0.8;
+}
