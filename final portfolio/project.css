@@ -1,0 +1,141 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.project-1{
+        background-image: linear-gradient(rgb(76, 76, 247),rgb(174, 27, 174));
+            height: 78vh;
+
+}
+
+.main-1{
+          /* background-color: black; */
+            height: 52vh;
+                width:55vw;
+                   margin: 15vh;
+                    margin-left: 12vw;
+                        position: absolute;
+}
+.sub-2{
+    /* background-color: rgb(206, 51, 217);    */
+        height: 18vh;
+            font-family: 'Montserrat', sans-serif;
+                font-size: 15px;
+                    font-weight: 500;
+                        padding: 2vh;;
+color: rgb(242, 232, 232);
+}
+
+.sub-1{
+    /* background-color: rgb(121, 64, 64);    */
+        height: 14vh;
+            /* overflow: hidden; */
+                display: flex;
+                    flex-wrap: wrap;
+
+}
+
+.sub-3{
+    /* background-color: rgb(178, 37, 37);    */
+        height: 10vh;
+
+}
+.sub-4{
+    /* background-color: rgb(119, 164, 52);    */
+        height: 10vh;
+
+}
+#list{
+margin-top: 2vh;
+margin-left: 1vw;
+}
+#icon-1{
+    /* background-color: rgb(177, 40, 40); */
+    height: 14vh;
+        width:8vw;
+            border: 2px solid white;
+                overflow: hidden;
+                border-radius: 20px;
+
+}
+.heading{
+    /* background-color: beige; */
+        height:7vh;
+        width:12vw;
+        overflow: hidden;
+            font-family: 'Montserrat', sans-serif;
+                font-size: 30px;  
+              color: rgb(242, 232, 232);
+
+}
+#shift{
+margin-left: 2vw;
+}
+.sub-heading{
+        font-family: 'Montserrat', sans-serif;
+                font-size: 18 px;  
+            color: rgb(242, 232, 232);
+}
+.img-1{
+        width: 100px; 
+         background-size: cover;
+}
+ 
+.sub-text{
+
+font-family: 'Montserrat', sans-serif;
+                font-size: 18px;  
+ height: 6vh;
+ margin-top: 4vh;
+margin-left: 4vh; 
+width:10vw;
+justify-content: center;
+ color: linear-gradient(rgb(76, 76, 247),rgb(174, 27, 174));
+  
+}
+
+.sub-text a{
+text-decoration: none;}
+
+.last{
+    display: flex;
+     flex-wrap: wrap;
+      
+    gap: 10px;
+}
+.pp-1{
+height: 4vh;
+width: 7vw;
+ 
+margin: 20px;
+}
+.pp-2{
+height: 4vh;
+width: 7vw;
+ 
+margin: 20px;
+}
+.pp-3{
+height: 4vh;
+width: 7vw;
+ 
+margin: 20px;
+}
+.img-google{
+margin-top: -6vh;
+}
+.img-google:hover{
+   margin-top: -6.1vh;
+   box-shadow: 2px 2px 8px linear-gradient(rgb(76, 76, 247),rgb(174, 27, 174));
+
+}
+.project-2{
+        background-color:  #fb6721;
+            height: 78vh;
+}
+.project-3{
+       background-image: linear-gradient(rgb(100, 100, 223) , rgb(35, 173, 118));
+            height: 78vh;
+}

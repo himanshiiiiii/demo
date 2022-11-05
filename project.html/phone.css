@@ -1,0 +1,14 @@
+@media screen and (max-width: 950px){
+    .contact-section{
+    flex-direction : column;
+    }
+    .info, .form{
+    margin: 30px 50px;
+    }
+    .contact-form h2{
+    font-size: 30px;
+    }
+    .contact-form .box{
+    width: 100%;
+    }
+}
